@@ -3,7 +3,7 @@
 """
 Created on Fri Mar  1 12:07:43 2019
 
-@author: juangabriel
+@author: pabloSomiedo
 """
 
 # Regresión Lineal Simple
